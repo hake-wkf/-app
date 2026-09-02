@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 智能装修设备方案定制",
+  "description": "自定义房屋户型、房间预算与智能灯光窗帘等设备定制方案生成器",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
